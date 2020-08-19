@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "iphone",
+      "quantity": 55
+    },
+    {
+      "name": "samsung",
+      "quantity": 80
+    }
+  ]
+}
